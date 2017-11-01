@@ -31,6 +31,9 @@ TARGET_KERNEL_CONFIG := lineageos_n5120_defconfig
 # GPS
 BOARD_GPS_SET_PRIVACY := true
 
+# BLN
+BOARD_HAS_BLN := true
+
 # Recovery
 TARGET_RECOVERY_FSTAB := device/samsung/n5120/rootdir/fstab.smdk4x12
 RECOVERY_FSTAB_VERSION := 2
