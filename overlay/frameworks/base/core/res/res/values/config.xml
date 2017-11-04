@@ -49,6 +49,8 @@
         <item>wifi_p2p,13,1,0,-1,true</item>
     </string-array>
 
+    <!-- An Array of "[ConnectivityManager connectionType],
+         [# simultaneous connection types]"  -->
     <string-array name="radioAttributes">
         <item>1,1</item>
         <item>0,1</item>
