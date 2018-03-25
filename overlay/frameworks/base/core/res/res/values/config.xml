@@ -96,7 +96,4 @@
     -->
     <integer name="config_doubleTapOnHomeBehavior">0</integer>
 
-    <!-- Enable button brightness -->
-    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
-
 </resources>
